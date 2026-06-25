@@ -1,35 +1,48 @@
-# PROG1.TRI2.ATIV3 - Lista de Atividades
+## Classes e objetos
 
-## Objetivo
+## Atributos e métodos
 
-O objetivo desta atividade é compreender a motivação e a utilidade dos principais conceitos da Programação Orientada a Objetos em TypeScript.
+## Construtores (constructor)
 
-Em cada questão, você deverá produzir um pequeno trecho de código que demonstre claramente a necessidade do conceito solicitado. Sempre que considerar apropriado, compare sua solução com uma abordagem procedural ou funcional para justificar por que o recurso de orientação a objetos torna a solução "superior" am algum aspécto.
+## Instanciação de objetos
 
-## Enunciado
+## Modificadores de acesso (public, private, protected)
 
-Escreva trechos de códigos que justiquem a necessidade da existencia dos temas abaixo em a objetos, se necessário compare com programçaõ funcional para justificativa, adicione ao topo de seus arquivos comentários que justifiquem a abordagem tomada na solução (para cada tópico faça duas soluções diferentes):
+## Propriedades somente leitura (readonly)
 
-1. Classes e objetos
-0. Atributos e métodos
-0. Construtores (constructor)
-0. Instanciação de objetos
-0. Modificadores de acesso (public, private, protected)
-0. Propriedades somente leitura (readonly)
-0. Métodos estáticos (static)
-0. Propriedades estáticas (static)
-0. Encapsulamento
-0. Herança
-0. Polimorfismo
-0. Abstração
-0. Getters e setters
-0. Classes abstratas (abstract)
-0. Métodos abstratos
-0. Sobrescrita de métodos (override)
-0. Sobrecarga de métodos (method overloading)
-0. Parâmetros opcionais em métodos
-0. Parâmetros padrão
-0. Herança simples
-0. Cadeia de herança
-0. Tratamento de exceções (throw, try, catch)
-0. Classes e herança de classes de erro
+## Métodos estáticos (static)
+
+## Propriedades estáticas (static)
+
+## Encapsulamento
+
+## Herança
+
+## Polimorfismo
+
+## Abstração
+
+## Getters e setters
+
+## Classes abstratas (abstract)
+
+## Métodos abstratos
+
+## Sobrescrita de métodos (override)
+
+## Sobrecarga de métodos (method overloading)
+
+## Parâmetros opcionais em métodos
+
+## Parâmetros padrão
+
+## Herança simples
+
+[link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuUAoEUAWlLPIsquptrrsLAFMBnAFydAGMBngEwCWAcwD2oPkwC2IgHbsATgENQYgK4sxE0AAsmSmQHPFAGlCKAjqoGh5TAA62WTGW0XSWoNiL4iPv0JJuALcAZnq+jNwikmbcinaKXAJ8ilpaXNF6ppyukgBGAJcxAjIhIvKB7qCWnP5ePgHBYfJiDkxJLIqRHPKgqjEymWZiTr0l7IoySakipiKqoE4AVsoyrE5xGnFc2uUtoJxCil4euvIpkt2TXrHainkCADbJqZzpmb2W12Kr7esvaRyeliDhEDgETBSWkGkiYADp8IxIgARJghEoCAwAY80nC4j0ULCcLCR+HxhI8AFk3AJmv4AN74UDMqJyNjyVRcLzyAAUdlUeWeXFAMKYeAUJSEAEpQPSAL6IllRWG8mWMpVKjJyESPeGPERCHkAAwAJPS2NoBCw4aK5QcJsrnD4jVKmSyFQqyQSiaAUIldvJ9kwAB4cGR8Kk0ukedUsgDccfwnvJPoA4scxCGwxHQNTJLTwjG3cyE0nESBIvA2ZNptjcSo8ksmCdSVr2KAjl4AIygAC8IqYAHdQOmvDyAOTQRSd8euttsOIiHv9tbDv07PYiCfQDJsNiz8vASKwVgcEkVsmyDS6uH4piKVX4TtL28fHlzxQvjIq99AA)
+
+## Cadeia de herança
+
+## Tratamento de exceções (throw, try, catch)
+
+## Classes e herança de classes de erro
+
