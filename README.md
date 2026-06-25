@@ -1,5 +1,7 @@
 ## Classes e objetos
 
+[link](https://www.typescriptlang.org/play/?#code/MYGwhgzhAEAKD2BLAdgF2gbwFDWgD2gF5oAGAbh2gE8jSKBfLHAemengCMArAU1XmjAAFmAC2YQeCg8WbUQEv+AEwHCxEgGYBXZAHOAx-CbB4yCOgAO6Ysh4B3OEjQAKAJQVWcAE4pUEkgA0pFgmZvAgPAB0IPAA5s4ABgAkGFaRePRBKWlU9AnuWEA)
+
 ## Atributos e métodos
 
 ## Construtores (constructor)
